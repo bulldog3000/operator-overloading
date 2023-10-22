@@ -1,4 +1,0 @@
-﻿  Source.cpp
-R:\УНИВЕР\Курс 2\ООП\lab 3\lab3\ex1\Source.cpp(72): warning C4172: возвращение адреса локальной или временной переменной : temp
-R:\УНИВЕР\Курс 2\ООП\lab 3\lab3\ex1\Source.cpp(81): warning C4172: возвращение адреса локальной или временной переменной : temp
-  ex1.vcxproj -> R:\УНИВЕР\Курс 2\ООП\lab 3\lab3\x64\Debug\ex1.exe
